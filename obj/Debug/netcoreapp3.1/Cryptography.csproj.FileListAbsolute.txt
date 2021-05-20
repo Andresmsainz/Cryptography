@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\bin\Debug\netcoreapp3.1\Cryptography.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Cryptography\obj\Debug\netcoreapp3.1\Cryptography.genruntimeconfig.cache
